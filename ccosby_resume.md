@@ -1,6 +1,6 @@
-# Christopher S. Cosby
-##### chris@microcozm.net
-##### 678-805-7481
+# <div align="center">Christopher S. Cosby</div>
+##### <div align="center">ccosby@gmail.com</div>
+##### <div align="center">678-805-7481</div>
 
 This résumé probably doesn't read the way in which you're accustomed. If you
 read from the bottom up, it is an autobiographical account of my career. The
@@ -15,9 +15,30 @@ problem you can't even quite define.
 <hr/>
 
 ## W2 History
-### 10/2012 - Current / *Cisco Systems, Inc.* / Software Engineer, DNCS Platform
 
-This position has defined much of my career. The "Platform" responsibility is
+### 2/2016 - Present / *Apt Platform Technologies, Inc.* / Co-owner, CTO
+
+After a long time in the corporate world, a partner and I decided to venture out on our own.
+Most of my recent and current work has been building custom software and websites (mostly
+using Python and React) and providing managed services and solutions. I have also done several
+installations of campus networks and security solutions.
+
+* Python 2/3
+  * The fancy new asycio with coroutines
+  * FastAPI / alembic / Pydantic / SQLAlchemy
+  * Django
+  * pyenv / pipenv / poetry
+  * boto3 for AWS
+* Javascript / Frontend
+  * ReactJS
+  * jQuery
+* Public Cloud
+  * Amazon Web Services
+  * DigitalOcean
+
+### 10/2012 - 2/2016 / *Cisco Systems, Inc.* / Software Engineer, DNCS Platform
+
+This position defined much of my career. The "Platform" responsibility is
 more systems integration and automation than software engineer. I'm
 responsible for making our products installable by "a homeless person with no
 computer experience". I've learned to write scripts of all types: Bourne
