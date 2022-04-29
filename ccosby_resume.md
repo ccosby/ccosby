@@ -2,7 +2,7 @@
 ##### <div align="center">ccosby@gmail.com</div>
 ##### <div align="center">678-805-7481</div>
 
-This résumé probably doesn't read the way in which you're accustomed. If you
+This CV probably does not read the way in which you're accustomed. If you
 read from the bottom up, it is an autobiographical account of my career. The
 skills sections that appear under each blurb are the highlights of what I
 picked up during that particular assignment, not the sum total of what I know.
@@ -21,7 +21,13 @@ problem you can't even quite define.
 After a long time in the corporate world, a partner and I decided to venture out on our own.
 Most of my recent and current work has been building custom software and websites (mostly
 using Python and React) and providing managed services and solutions. I have also done several
-installations of campus networks and security solutions.
+installations of campus networks and security solutions. I continue to do an unreasonable number
+of API integrations allowing clients to move data between disparate systems. Much of my work is
+built using Docker. That includes using and creating docker-compose and creating Dockerfiles (*please
+don't judge me for really enjoying creating the smallest most function Docker image possible*).)
+I've played with k8s just enough to know that I want to spend more time digging deep. I miss the old
+Docker Swarm functionality. With every sentence I write here, I remember how many Things I've used
+that never made it to this CV.
 
 * Python 2/3
   * The fancy new asycio with coroutines
@@ -35,6 +41,10 @@ installations of campus networks and security solutions.
 * Public Cloud
   * Amazon Web Services
   * DigitalOcean
+* Docker (much experience)
+  * Everything at https://hub.docker.com/orgs/aptplatforms is mine
+* Kubernetes (limited practical experience)
+* Augeas (and I pronounce it almost like *obvious*)
 
 ### 10/2012 - 2/2016 / *Cisco Systems, Inc.* / Software Engineer, DNCS Platform
 
@@ -156,8 +166,6 @@ database servers, and the Linux mail/web/DNS gateway.
 * Linux (Slackware, RedHat, Debian)
 * Basics of IP Networking
 
-<hr/>
-
 ## 1099 History
 ### 06/1999 - Current / *Krengel Technology*
 
@@ -174,11 +182,5 @@ projects with him and his company.
   PHP and Lua and a tiny web templating engine in awk.
 * Many more small projects, and hopefully many more to come.
 
-<hr/>
-
-## Education
+## Official Education
 ### Auburn University -- BSBA, Management Information Systems (1999)
-
-<hr/>
-
-###### References are available upon request
