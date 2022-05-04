@@ -1,6 +1,6 @@
 # <div align="center">Christopher S. Cosby</div>
-##### <div align="center">ccosby@gmail.com</div>
-##### <div align="center">678-805-7481</div>
+### <div align="center">ccosby@gmail.com</div>
+### <div align="center">678-805-7481</div>
 
 This CV probably does not read the way in which you're accustomed. If you
 read from the bottom up, it is an autobiographical account of my career. The
@@ -50,15 +50,15 @@ that never made it to this CV.
 
 This position defined much of my career. The "Platform" responsibility is
 more systems integration and automation than software engineer. I'm
-responsible for making our products installable by "a homeless person with no
-computer experience". I've learned to write scripts of all types: Bourne
+responsible for making our products installable by "any passerby on the street
+with no computer experience". I've learned to write scripts of all types: Bourne
 shell, Korn shell, BASH, Perl, Python, Ruby, etc. The product was initially
 shipped on Sun SPARC hardware. From there, we worked on recompiling to SunOS
 i386 and installing it on VMware. My job is creating the glue required to make
 upgrading versions happen with as little downtime as possible. Moving a running
-application stack from SunOS SPARC to SunOS i386 under VMware, while migrating
-a half terabyte Informix database requires a lot of tools and an ability to
-make things work together that were never designed to.
+application stack from SunOS SPARC to SunOS i386 under VMware, while migrating a
+half terabyte Informix database requires a lot of tools and an ability to make
+things work together that were never designed to.
 
 * Cisco
   * Nexus 5000/7000
@@ -102,6 +102,12 @@ project was moved offshore to reduce OpEx.
 * Derby
 * Groovy
 * Veritas VxFS
+
+<div style="page-break-before: always;">
+<div align="right">Christopher S. Cosby</div>
+</div>
+
+<br/>
 
 ### 03/2005 - 02/2011 / *Scientific-Atlanta, a Cisco Company* / Software Engineer, DNCS Platform
 
